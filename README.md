@@ -20,4 +20,4 @@ Second iteration of Photorama App that displays Flickr photos in a grid using UI
 
 
 ## Deadline 
-Monday 19th December 9:15 am
+Sunday 19th December 9:15 am
